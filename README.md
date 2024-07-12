@@ -1,4 +1,4 @@
-# TaunahiTaunahi - Next Generation Skyblock Scripts
+# Taunahi - Next Generation Skyblock Scripts
 
 **Stop overpaying for bad scripts - get Taunahi.**
 ## GUI Showcase
