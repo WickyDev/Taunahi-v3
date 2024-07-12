@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Taunahi v3",
+    "description": "Taunahi the best",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "You"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
